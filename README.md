@@ -4,7 +4,8 @@
 
 ## Education
 - B.S., Industrial Engineering & Management Sciences | Northwetern University (_Expected December 2024_)
-
+  - Minor: Computer Science
+  - Certificate: Managerial Analytics | Kellogg School of Management 
 ## Work Experience
 **Data Science Consultant (Capstone Project) @ Northwestern OFfice of the Registrar (_March 2024 - Present_)**
 - Developing a predictive tool for course enrollment forecasting, aimed at aiding department heads in academic planning
@@ -21,4 +22,5 @@
 
 ### Extracurriculars
 - Northwestern Club Ice Hockey
-- Northwestern IISE
+- Northwestern IISE - Chair of Community Engagement
+- Northwestern Institute for Student Business Education
