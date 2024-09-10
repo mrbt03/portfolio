@@ -10,7 +10,7 @@
 - Clustering analysis on Spotify music attributes using Gaussian Mixture Models and PCA.
 
 ### 4. [Checkers Game (C++)](https://github.com/mrbt03/Checkers)  
-- Console-based Checkers game in C++ with AI-based moves.
+- Console-based Checkers game in C++.
 
 ### 5. [2016 US Presidential Primaries Analysis](https://github.com/mrbt03/2016-US-Presidential-Primaries-Analysis)  
 - Exploratory data analysis and predictive modeling on 2016 US Presidential Primaries.
