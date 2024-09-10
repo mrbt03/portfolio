@@ -7,11 +7,11 @@
 - Recipe recommender system using Item-Based Collaborative Filtering (IBCF) in R with a Shiny app interface.
 
 ### 3. [Spotify Clustering](https://github.com/mrbt03/Spotify-Clustering)  
-- Clustering analysis on Spotify music attributes using Gaussian Mixture Models and PCA.
+- Clustering analysis on Spotify music attributes using Gaussian Mixture Models and PCA in R.
 
 ### 4. [Checkers Game (C++)](https://github.com/mrbt03/Checkers)  
 - Console-based Checkers game in C++.
 
 ### 5. [2016 US Presidential Primaries Analysis](https://github.com/mrbt03/2016-US-Presidential-Primaries-Analysis)  
-- Exploratory data analysis and predictive modeling on 2016 US Presidential Primaries.
+- Exploratory data analysis and predictive modeling of voting patterns in the 2016 US Presidential Primaries using XGBoost.
 
