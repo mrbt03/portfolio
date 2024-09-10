@@ -18,5 +18,5 @@
 ### 6. [Telco Churn Analysis](https://github.com/mrbt03/Telco-Churn-Analysis)
 - A comprehensive analysis to predict customer churn in the telecommunications industry using machine learning algorithms such as Logistic Regression, Decision Trees, and Random Forests. It also includes data visualization and feature engineering steps.
 
-### 7. [Affair Prediction Analysis](https://github.com/mrbt03/Affair-Prediction-Analysis)
+### 7. [Affair Prediction Analysis](https://github.com/mrbt03/Extramarital-Affairs-An-Analysis)
 - This project analyzes extramarital affair data to predict cheating behavior using logistic regression and K-Nearest Neighbors (KNN). It involves data preprocessing, feature engineering, model building, and evaluation through various metrics like ROC curves and confusion matrices.
